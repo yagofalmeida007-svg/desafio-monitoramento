@@ -137,7 +137,7 @@ monitoramento.exe
 ```
 
 ---
-[monitor](./src/monitor/monitor-de-temperatura.exe/)
+[monitor](./monitor)
 ## 6. Testes realizados
 
 ### Teste 1 — Validação de entradas inválidas
