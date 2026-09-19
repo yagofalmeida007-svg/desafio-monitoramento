@@ -137,7 +137,7 @@ monitoramento.exe
 ```
 
 ---
-
+[monitor](./src/monitor/monitor-de-temperatura.exe/)
 ## 6. Testes realizados
 
 ### Teste 1 — Validação de entradas inválidas
@@ -209,7 +209,7 @@ Ao registrar a terceira temperatura consecutiva acima do limite, o programa exib
 ## 7. Evidências
 
 As evidências dos testes realizados estão disponíveis na pasta:
-
+[evidencias](./evidencias)
 ```text
 evidencias/
 ```
