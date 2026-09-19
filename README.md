@@ -233,14 +233,14 @@ Cada imagem apresenta a execução do programa referente a um dos três cenário
 ```text
 desafio-monitoramento/
 │
-├── monitoramento.c
-│
-├── README.md
-│
 └── evidencias/
     ├── teste01.png
     ├── teste02.png
     └── teste03.png
+├── monitor.c
+│
+├── README.md
+│
 ```
 
 ---
