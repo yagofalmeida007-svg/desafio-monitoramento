@@ -137,6 +137,7 @@ monitoramento.exe
 ```
 
 ---
+faça o dowload e execulte o arquivo.exe
 [monitor](./monitor)
 ## 6. Testes realizados
 
