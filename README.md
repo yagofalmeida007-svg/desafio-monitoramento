@@ -138,7 +138,7 @@ monitoramento.exe
 
 ---
 faça o dowload e execulte o arquivo.exe
-[monitor](./monitor)
+[monitoramento](./monitoramento)
 ## 6. Testes realizados
 
 ### Teste 1 — Validação de entradas inválidas
@@ -237,7 +237,7 @@ desafio-monitoramento/
     ├── teste01.png
     ├── teste02.png
     └── teste03.png
-├── monitor.c
+├── monitoramento.c
 │
 ├── README.md
 │
